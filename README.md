@@ -20,7 +20,7 @@ Import the desired icon component and use it like any other React component. The
 
 
 - `name` (required): The name of the icon.
-- `color` (optional): The color of the icon. Default is `"white"`.
+- `color` (optional): The color of the icon. Default is `"#5B28E5"`.
 - `size` (optional): The size of the icon. Default is `24`.
 
 ### Example
